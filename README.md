@@ -24,6 +24,7 @@ For each word in the cluster, we calculated the number of documents it appeared 
 
 \[N = \frac{{\sum \text{{No. of unique words in each document in the cluster}}}}{{\text{{Total no. of documents in the cluster}}}}\]
 
+
 ### Updating Centroid in Procedure 2:
 We tried multiple approaches:
 
