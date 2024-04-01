@@ -4,7 +4,7 @@
 Our objective was to apply K-means clustering to datasets containing documents, exploring different values of K to determine the optimal number of clusters. We employed the Jaccard index, a similarity metric ranging from 0 to 1, which assesses similarity based on the overlap of words present in two documents. This index is particularly suitable for sparse binary datasets, as it considers common or disjoint elements in two sets.
 
 ## Metric
-We utilized the Jaccard distance as a dissimilarity metric between documents, replacing the Euclidean distance in clustering tasks to identify clusters within the given documents.
+We utilized the Jaccard distance as a dissimilarity metric between documents, replacing the Euclidean distance in clustering tasks to identify clusters within given documents.
 
 ## Procedures
 We primarily employed two procedures for clustering:
