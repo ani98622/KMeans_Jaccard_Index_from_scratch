@@ -59,7 +59,8 @@ For Procedure 1, we identified two values of K for the KOS dataset, 4 and 11, wh
 | Nips       | 4   | 113.65            | 5148              | 0.1       | 56   |
 | Kos        | 11  | 50.72             | 10384             | 0.2       | 100  |
 
-
+![image](https://github.com/ani98622/KMeans_Jaccard_Index_from_scratch/assets/141315211/13ef53a1-af39-46b5-94ae-5aa8fe0d9036)
+![image](https://github.com/ani98622/KMeans_Jaccard_Index_from_scratch/assets/141315211/1045a8e1-7b16-415e-8e6a-aada328d161a)
 
 For Procedure 2 , results are as follows: 
 
@@ -69,5 +70,6 @@ For Procedure 2 , results are as follows:
 | Nips       | 10  | 94.6              | 15708             | 0.2       | 14   |
 | Kos        | 11  | 137.52            | 40788             | 0.05      | 100  |
 
-![image](https://github.com/ani98622/KMeans_Jaccard_Index_from_scratch/assets/141315211/e797cdc1-0125-47be-ba6b-e37fd0fa669d)
+![image](https://github.com/ani98622/KMeans_Jaccard_Index_from_scratch/assets/141315211/df290432-aa21-4a14-8147-c2acaac506e8)
+
 
