@@ -60,10 +60,14 @@ For Procedure 1, we identified two values of K for the KOS dataset, 4 and 11, wh
 | Kos        | 11  | 50.72             | 10384             | 0.2       | 100  |
 
 
-For Procedure 2 , reults are as follows: 
+
+For Procedure 2 , results are as follows: 
 
 | Collection | K   | Time Taken (secs) | Space Taken (KB)  | Threshold | Seed |
 |------------|-----|-------------------|-------------------|-----------|------|
 | Enron      | 5   | 45.8              | 220912            | 0.2       | 67   |
 | Nips       | 10  | 94.6              | 15708             | 0.2       | 14   |
 | Kos        | 11  | 137.52            | 40788             | 0.05      | 100  |
+
+![image](https://github.com/ani98622/KMeans_Jaccard_Index_from_scratch/assets/141315211/e797cdc1-0125-47be-ba6b-e37fd0fa669d)
+
