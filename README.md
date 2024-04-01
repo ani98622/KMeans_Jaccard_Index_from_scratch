@@ -53,3 +53,17 @@ We plotted the graph of inertia vs K for different thresholds (0.1, 0.2, 0.05, 0
 
 For Procedure 1, we identified two values of K for the KOS dataset, 4 and 11, where there was a decrease in the rate of change of inertia. However, we opted for 11 over 4 because a greater number of clusters typically leads to more homogeneity within the clusters.
 
+| Collection | K   | Time Taken (secs) | Space Taken (KB)  | Threshold | Seed |
+|------------|-----|-------------------|-------------------|-----------|------|
+| Enron      | 5   | 345.31            | 371428            | 0.1       | 69   |
+| Nips       | 4   | 113.65            | 5148              | 0.1       | 56   |
+| Kos        | 11  | 50.72             | 10384             | 0.2       | 100  |
+
+
+For Procedure 2 , reults are as follows: 
+
+| Collection | K   | Time Taken (secs) | Space Taken (KB)  | Threshold | Seed |
+|------------|-----|-------------------|-------------------|-----------|------|
+| Enron      | 5   | 45.8              | 220912            | 0.2       | 67   |
+| Nips       | 10  | 94.6              | 15708             | 0.2       | 14   |
+| Kos        | 11  | 137.52            | 40788             | 0.05      | 100  |
