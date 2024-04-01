@@ -1,5 +1,3 @@
-# KMeans_Jaccard_Index_from_scratch
-
 # KMeans Clustering with Jaccard Index
 
 ## Objective
@@ -23,6 +21,7 @@ In both procedures:
 
 ### Updating Centroid in Procedure 1:
 For each word in the cluster, we calculated the number of documents it appeared in. Then, we selected the top 'N' words, sorted by their frequency of occurrence across documents, where:
+
 \[N = \frac{{\sum \text{{No. of unique words in each document in the cluster}}}}{{\text{{Total no. of documents in the cluster}}}}\]
 
 ### Updating Centroid in Procedure 2:
