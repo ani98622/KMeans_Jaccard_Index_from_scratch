@@ -1,4 +1,4 @@
-# KMeans Clustering with Jaccard Index
+#  Unveiling Patterns: Jaccard's Clustering from scratch
 
 ## Objective
 Our objective was to apply K-means clustering to datasets containing documents, exploring different values of K to determine the optimal number of clusters. We employed the Jaccard index, a similarity metric ranging from 0 to 1, which assesses similarity based on the overlap of words present in two documents. This index is particularly suitable for sparse binary datasets, as it considers common or disjoint elements in two sets.
