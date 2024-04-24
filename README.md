@@ -45,7 +45,7 @@ We tried multiple approaches:
 - Calculated the occurrence of each word in the cluster.
 - Computed 'count_n', representing the average number of words in each document within the cluster.
 - Selected the top 'count_n' words, sorted by their frequency.
-- Adjusted their frequency by dividing by the number of documents in the cluster.
+- Adjusted their frequency by dividing by the number of documents in which they actually appeared rather than dividing by the no. of documents in the cluster.
 - The resulting words with adjusted frequency formed the updated centroid.
 
 ## Results
